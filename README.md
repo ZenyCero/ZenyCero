@@ -1,16 +1,13 @@
 # Hola, soy [Elias Tagle](https://www.linkedin.com/in/elias-jafet-tagle-zevallos-35347a187/)👋
 
-Yo soy un estudiante y apasionado de la informatica que desarrolla proyectos en sus ratos libres buscando afianzar mis conocimientos.
+Yo soy un estudiante y apasionado de la informatica, desarrollo proyectos en mis ratos libres buscando afianzar mis conocimientos.
 
 ## Skills:
 
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-7776AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-3756AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring_Security-4776AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Spring Data](https://img.shields.io/badge/Spring_Data-9776AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Database
@@ -20,10 +17,18 @@ Yo soy un estudiante y apasionado de la informatica que desarrolla proyectos en 
 
 #### Tools and Technologies
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-008f39?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Webflux](https://img.shields.io/badge/Spring_Web_-Webflux-008f39?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-3756AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring_Security-4776AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Data](https://img.shields.io/badge/Spring_Data-9776AB?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-3756AB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-4776AB?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-9776AB?style=for-the-badge&logo=maven&logoColor=white)&nbsp;
+![JUnit 5](https://img.shields.io/badge/JUnit_5-008f39?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FFA500?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 #### IDEs
 
